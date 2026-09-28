@@ -1,2 +1,3 @@
 console.log("Este archivo se creó en la rama main");
-console.log("Esto se creó desde la rama nueva");git add app.js saludo.j
+console.log("Esto se creó desde la rama nueva");
+console.log("Esta línea se escribió directamente en GitHub");
